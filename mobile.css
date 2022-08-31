@@ -417,9 +417,13 @@ br {
     font-size: 1rem;
 }
 
+.download-left p br{
+    display: inline; 
+}
 .download-btns {
     display: flex;
     margin-top: 1.5rem;
+    flex-direction: column;
 }
 
 
