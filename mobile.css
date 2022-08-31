@@ -179,8 +179,8 @@ body {
 }
 
 .banner {
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-left: 1rem;
+    padding-right: 1rem;
     padding-top: 30px;
     height: 100%;
     padding-bottom: 30px;
