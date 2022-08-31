@@ -26,17 +26,19 @@ body {
     margin-top: 0.7rem;
     left: 75vw;
     z-index: 1;
-    display: inline;
+    display: inline-block;
 }
 
 .nav-center .toggler {
     position: absolute;
+    /* top: 10px;
+    left: 15px; */
     top: 0;
     left: 0;
     z-index: 2;
     cursor: pointer;
-    width: 30px;
-    height: 30px;
+    width: 72px;
+    height: 72px;
     opacity: 0;
 }
 
@@ -178,7 +180,7 @@ body {
 
 .banner {
     padding-left: 20px;
-    padding-right:15px;
+    padding-right: 15px;
     padding-top: 30px;
     height: 100%;
     padding-bottom: 30px;
