@@ -11,6 +11,8 @@ body {
 .logo {
     margin-left: 0rem;
     margin-top: 1rem;
+    width: 3.25rem;
+    height: 3.25rem;
 }
 
 .nav-bar {
